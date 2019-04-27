@@ -1,0 +1,13 @@
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\StockPracticeWork27.04.2019.exe.config
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\StockPracticeWork27.04.2019.exe
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\StockPracticeWork27.04.2019.pdb
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\EntityFramework.dll
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\EntityFramework.xml
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\obj\Debug\StockPracticeWork27.04.2019.csprojAssemblyReference.cache
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\obj\Debug\StockPracticeWork27.04.2019.csproj.CoreCompileInputs.cache
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\obj\Debug\StockPracticeWork27.04.2019.csproj.CopyComplete
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\obj\Debug\StockPracticeWork27.04.2019.exe
+C:\Users\АдылкановМ\source\repos\StockPracticeWork27.04.2019\StockPracticeWork27.04.2019\obj\Debug\StockPracticeWork27.04.2019.pdb
