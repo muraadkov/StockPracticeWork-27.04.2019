@@ -42,11 +42,17 @@ namespace StockPracticWork
                                 context.SaveChanges();
                                 break;
                             case 3:
-                                Console.WriteLine("Какой продукт хотите изменить: ");
+                                int i = 1;
+                                Console.WriteLine("Какой продукт хотите изменить? Пишите название. ");
+                                Console.WriteLine("Список продуктов: ");
+                                foreach(var s in context.Stocks.ToList())
+                                {
+                                    Console.WriteLine(i++ + "." + s.Name);
+                                }
                                 changedProduct = Console.ReadLine();
                                 var resultOfChange = context.Stocks.ToList().Where(s => s.Name == changedProduct);
-                                Console.WriteLine("1 - Имя продукта" +
-                                    "\n2 - Количество продукта");
+                                Console.WriteLine("1 - Изменить название продукта" +
+                                    "\n2 - Изменить количество продукта");
                                 if (int.TryParse(Console.ReadLine(), out int result))
                                 {
                                     switch (result)
